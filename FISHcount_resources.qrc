@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="ResetButton">
+    <file>button_reset_dabuttonfactory_com.png</file>
+  </qresource>
+</RCC>
